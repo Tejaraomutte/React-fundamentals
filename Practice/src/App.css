@@ -1,5 +1,6 @@
 .maincontainer{
-    display:flex;
+    display:inline;
     padding:50px;
     justify-content:center;
+    padding:10px;
 }
