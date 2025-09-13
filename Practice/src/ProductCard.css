@@ -1,0 +1,26 @@
+.title{
+    font-size: 20px;
+    font-weight:bold;
+    color: blue;
+}
+.body{
+    font-size: 20px;
+    font-weight:bold;
+    color:blueviolet;
+}
+.true{
+    font-size:20px;
+    font-weight:bold;
+    color:green;
+}
+.false{
+    font-size:20px;
+    font-weight:bold;
+    color:red;
+}
+.container{
+    border-radius: 20px;
+    border:2px solid black;
+    padding:30px;
+    margin:20px;
+}

@@ -1,0 +1,48 @@
+.Name{
+    font-size:20px;
+    font-weight: bold;
+    color:red;
+    text-align: center;
+}
+.Course{
+    font-size: 20px;
+    font-weight:bold;
+    color:black;
+    text-align: center;
+}
+.RollNo{
+    font-size: 20px;
+    font-weight:bold;
+    color:black;
+    text-align: center;
+}
+.BloodGroup{
+    font-size: 20px;
+    font-weight:bold;
+    color:black;
+    text-align: center;
+}
+.DOB{
+    font-size: 20px;
+    font-weight:bold;
+    color:black;
+    text-align: center;
+}
+.container{
+    border-radius:10px;
+    border:2px solid black;
+    box-sizing:border-box;
+    padding:20px;
+
+}
+img{
+    border-radius:5%;
+    border:2px solid gray;
+    height:100px;
+    width:100px;
+    object-fit: cover;
+    display:block;
+    margin:0 auto;
+    margin-top: 10px;
+    margin-bottom:10px;
+}
